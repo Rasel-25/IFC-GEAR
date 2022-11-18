@@ -1,0 +1,3 @@
+actual_manpower_ttl,date,buyer,line,style,order_no,smv,total_target,hours,lost_mins,day_output,available_mins,output_mins,target_mins
+414,1-Jan-2019,12,10,12,11,108.42,14095,10.0,0,13936,248400,1510941.12,1528179.9000000001
+414,2-Jan-2019,15,10,15,15,136.52,15890,10.0,0,15779,248400,2154149.08,2169302.8000000003
